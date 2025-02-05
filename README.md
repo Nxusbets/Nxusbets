@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos Diaz</h1>
 <h3 align="center">Fullstack Developer with a strong foundation in both front-end and back-end technologies. Proficient in React, HTML, Bootstrap, JavaScript, Python, and Flask. Currently pursuing a Bachelor's Degree in Software Engineering and completed a Fullstack Developer bootcamp. Passionate about building innovative solutions and enhancing user experiences.</h3>
 
-- 🔭 I’m currently working on **Petwalker** https://github.com/4GeeksAcademy/Pet_Walker
-
 - 👨‍💻 All of my projects are available at [https://github.com/Nxusbets](https://github.com/Nxusbets)
 
 - 💬 Ask me about **React, HTML, Javascript, Python, Flask, Bootstrap, etc**
